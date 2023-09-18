@@ -8,7 +8,7 @@ A good __Cloud Engineer__ uses Codeblocks whenever possible.
 Because it allows others to copy and paste their code to replicate or research issues.
 
 
-- In order to create codeblocks in markdown you need to use three backticks (```)
+- In order to create codeblocks in markdown you need to use three backticks (`)
 - Not to be confused with quotation (')
   
 ```
@@ -59,11 +59,12 @@ end
   def greet
     puts "Hello, #{@name}!"
   end
-end
+  
+  ```
 
-```
 
 
+![Fall Image](https://github.com/bezilule/github-docs-example/assets/88293035/bf7e24bd-e895-4260-8573-a6261087a50b)
 
 
 

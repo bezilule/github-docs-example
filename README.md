@@ -62,8 +62,9 @@ end
   
   ```
 
+![Fall Image](https://github.com/bezilule/github-docs-example/assets/88293035/0948ba74-fffd-4363-b253-c0468c29a04c)
 
-![Coffee Mug](https://github.com/bezilule/github-docs-example/assets/88293035/507ef33b-1986-42dd-ad45-0f4b2dfc31ec)
+
 
 
 

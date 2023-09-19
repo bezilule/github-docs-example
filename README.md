@@ -86,7 +86,7 @@ This is not be confused with taking a photo with your phone.
 
 **Don't do This**
 
-![phone photo](assets/Phone photo.jpg)
+![a photo with your phone](assets/Phone%20photo.jpg)
 
 This is what a screenshot from your computer should look like
 

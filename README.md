@@ -62,10 +62,7 @@ end
   
   ```
 
-![Fall Image](https://github.com/bezilule/github-docs-example/assets/88293035/0948ba74-fffd-4363-b253-c0468c29a04c)
-
-
-
+![Fall Image](https://github.com/bezilule/github-docs-example/assets/88293035/0185a43d-acee-4548-8732-f05c459cdea3)
 
 
 

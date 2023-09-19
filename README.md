@@ -101,6 +101,7 @@ You can use the following format to create tables:
 GitHub extends the functionality of Markdown tables to provide more alignment and table cell formatting options.
 [<sup> [2] <sup>](#external-references)
 
+![](/assets/)
 ## External References 
 
 - [GitHub Flavored Markdown Spec](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) 

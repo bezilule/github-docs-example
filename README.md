@@ -87,6 +87,10 @@ This is not be confused with taking a photo with your phone.
 
 This is what a screenshot from your computer should look like
 
+**Do This Instead**
+
+![Screenshot example](assets/screenshots-example.png)
+
 
 Taking screenshots on both macOS and Windows is straightforward and can be done using hotkeys. Here are instructions for both operating systems:
 

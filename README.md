@@ -62,7 +62,7 @@ end
   
   ```
 
-![Fall Image](https://github.com/bezilule/github-docs-example/assets/88293035/0185a43d-acee-4548-8732-f05c459cdea3)
+![Fall Image](assets/Fall%20Image.png)
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -70,6 +70,15 @@ Good Cloud Engineers use codeblocks for both Code and Errors that appear in the 
 NameError: undefined local variable or method `some_undefined_variable' for main:Object
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
+
+## Step 2 - Hot to take screenshots 
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not be confused with taking a photo with your phone.
+
+
+
 
 ## Step 3 - Use GitHub Flavored Markdown Task Lists
 
@@ -101,7 +110,8 @@ You can use the following format to create tables:
 GitHub extends the functionality of Markdown tables to provide more alignment and table cell formatting options.
 [<sup> [2] <sup>](#external-references)
 
-![](/assets/)
+![Fall Image](assets/Fall%20Image.png)
+
 ## External References 
 
 - [GitHub Flavored Markdown Spec](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) 

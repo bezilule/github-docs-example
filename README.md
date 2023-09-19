@@ -64,7 +64,54 @@ end
 
 ![Fall Image](https://github.com/bezilule/github-docs-example/assets/88293035/0185a43d-acee-4548-8732-f05c459cdea3)
 
+Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
+```bash
+NameError: undefined local variable or method `some_undefined_variable' for main:Object
+```
+> Here is an example of using a codeblock for an error that appears in bash.
+
+## Step 3 - Use GitHub Flavored Markdown Task Lists
+
+GitHub extends Markdown to have a list where you can check off items. [<sup> [1] <sup>](#external-references)
+
+- [x] Finish Step 1
+- [] Finish Step 2
+- [x] Finish Step 3
+
+## Step 4 Use Emojis (Optional)
+
+GitHub Flavored Markdown (GFM) Supports emoji shortcodes. Here are some examples:
+
+| Name | Short | Emoji |
+| --- | --- | ---|
+| Cloud | `:cloud:` | :cloud: |
+| Cloud with lighting | :cloud_with_lightning | 🌩️ |
+
+## Step 5 - how to create a table
+
+You can use the following format to create tables:
+
+```md
+| Name | Short | Emoji |
+| --- | --- | ---|
+| Cloud | `:cloud:` | :cloud: |
+| Cloud with lighting | :cloud_with_lightning | 🌩️ |
+```
+GitHub extends the functionality of Markdown tables to provide more alignment and table cell formatting options.
+[<sup> [2] <sup>](#external-references)
+
+## External References 
+
+- [GitHub Flavored Markdown Spec](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) 
+
+- [GitHub Flavored Markdown Spec](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+- [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) <sup> [1] <sup>
+
+- [GFM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
+- [GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-) <sup> [2] <sup>
 
 
 

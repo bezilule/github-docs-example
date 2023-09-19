@@ -84,6 +84,9 @@ A screenshot is when you capture a part of your screen from your laptop, desktop
 
 This is not be confused with taking a photo with your phone.
 
+**Don't do This**
+
+![phone photo](assets/Phone photo.jpg)
 
 This is what a screenshot from your computer should look like
 

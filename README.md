@@ -71,12 +71,61 @@ NameError: undefined local variable or method `some_undefined_variable' for main
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
 
+When you can always provide a codeblock instead of a screenshot.
+If you need to take a screenshot make sure it is not a photo from your phone.
+
+> There are certain cases where it's okay to take photos with your phone. This is when you are showing a keyboard, which does not appear on a computer screen.
+If it renders on your computer screen it should be a screenshot.
+
+
 ## Step 2 - Hot to take screenshots 
 
-A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+A screenshot is when you capture a part of your screen from your laptop, desktop, or phone.
 
 This is not be confused with taking a photo with your phone.
 
+
+This is what a screenshot from your computer should look like
+
+
+Taking screenshots on both macOS and Windows is straightforward and can be done using hotkeys. Here are instructions for both operating systems:
+
+**Windows Hotkeys:**
+
+1. **PrtScn (Print Screen) Key:**
+   - Press the `PrtScn` key to capture the entire screen. The screenshot will be copied to the clipboard.
+   - To capture only the active window, press `Alt + PrtScn`. This will also copy the screenshot to the clipboard.
+
+2. **Windows + Shift + S (Windows 10 and later):**
+   - Press `Win + Shift + S` to open the Snip & Sketch tool, which allows you to select an area to capture. The screenshot is copied to the clipboard.
+
+3. **Windows + PrtScn (Windows 8 and later):**
+   - Press `Win + PrtScn` to capture the entire screen and save the screenshot as an image file in your "Screenshots" folder within your "Pictures" library.
+
+4. **Windows + Alt + PrtScn (Windows 10 and later):**
+   - Press `Win + Alt + PrtScn` to capture the active window and save it as an image file in your "Screenshots" folder.
+
+**macOS Hotkeys:**
+
+1. **Shift + Command + 3:**
+   - Press `Shift + Command + 3` to capture the entire screen. The screenshot will be saved as a file on your desktop by default.
+
+2. **Shift + Command + 4:**
+   - Press `Shift + Command + 4` to capture a selected portion of the screen. After pressing this shortcut, you can drag to select the area you want to capture. The screenshot will be saved as a file on your desktop.
+
+3. **Shift + Command + 4, then Spacebar:**
+   - Press `Shift + Command + 4` and then press the `Spacebar` key to capture a specific window or dialog box. Click on the window you want to capture, and the screenshot will be saved as a file on your desktop.
+
+4. **Control + Shift + Command + 3:**
+   - Press `Control + Shift + Command + 3` to capture the entire screen and copy it to the clipboard.
+
+5. **Control + Shift + Command + 4:**
+   - Press `Control + Shift + Command + 4` to capture a selected portion of the screen and copy it to the clipboard.
+
+6. **Control + Shift + Command + 4, then Spacebar:**
+   - Press `Control + Shift + Command + 4` and then press the `Spacebar` key to capture a specific window or dialog box and copy it to the clipboard.
+
+These hotkeys make it easy to capture screenshots on both Windows and macOS, and you can choose the method that best suits your needs.
 
 
 
